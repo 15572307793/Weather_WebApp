@@ -1,0 +1,1 @@
+export const GET_ROUTER = 'router/get_router';
